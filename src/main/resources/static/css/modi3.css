@@ -1,0 +1,16 @@
+table{
+	border:1px solid #00FFFF;
+	width:380px;
+	height:auto;
+	cellpadding:0px;
+}
+th{
+	margin:0px;
+}
+.describ{
+	width:120px;
+	text-align:right;
+}
+.input1{
+	width:250px;
+}
